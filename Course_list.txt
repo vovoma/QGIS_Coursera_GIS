@@ -1,0 +1,2 @@
+Fundamentals of GIS - First course
+GIS Data Formats, Design and Quality - second course
